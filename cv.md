@@ -8,7 +8,7 @@ A motivated and responsible with lack of expirience in Web development, but with
 
 Skills
 ---------------
-* Basic knowledge of programing languages including JavaScript, PHP, MySQL
+* Basic knowledge of programing languages including JavaScript, PHP, MySQL, Java
 * Strong knowledge of telecomunication equipment and technologies
 
 Code example
