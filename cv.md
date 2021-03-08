@@ -23,8 +23,8 @@ const func = (num) => {
 ```
 Education
 -----------------
-* 1997-2002 B.S. Computer Science Uzhgorod State University
-* 2003-2006 B.S. Telecomunication engineer Kiyv State University of Telecommunication
+* 1997-2002 B.S. Computer Science, Uzhgorod State University
+* 2003-2006 B.S. Telecomunication engineer, Kiyv State University of Telecommunication
 
 Languages
 -----------------
